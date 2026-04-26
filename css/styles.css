@@ -74,13 +74,28 @@ h4.font-heading {
   background: #171311 !important;
 }
 
-.site-header .mobile-panel a {
+.site-header .mobile-panel {
+  background: linear-gradient(135deg, #1a1210 0%, #0f0c0a 100%) !important;
+}
+
+.site-header .mobile-panel span {
+  color: #d2b179 !important;
+}
+
+.site-header .mobile-panel nav a {
+  background: rgba(210, 177, 121, 0.12) !important;
   color: #f4ede4 !important;
+  border: 1px solid rgba(210, 177, 121, 0.2) !important;
+  font-weight: 500;
+  transition: all 0.3s ease;
 }
 
 .site-header .mobile-panel a:hover,
 .site-header .mobile-panel a:focus {
+  background: rgba(210, 177, 121, 0.25) !important;
   color: #d2b179 !important;
+  border-color: rgba(210, 177, 121, 0.4) !important;
+  transform: translateX(4px);
 }
 
 .site-footer {
@@ -175,8 +190,24 @@ h4.font-heading {
   transition: transform 0.32s ease;
 }
 
+.mobile-panel::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  z-index: 55;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.32s ease;
+}
+
 .mobile-panel.is-open {
   transform: translateX(0);
+}
+
+.mobile-panel.is-open::before {
+  opacity: 1;
+  pointer-events: auto;
 }
 
 .carousel-slide {
