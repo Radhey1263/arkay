@@ -35,7 +35,7 @@ const productsData = [
   { id: 'modern-dining-set', category: 'Dining', title: 'Modern Dining Set', img: 'dining3.png', desc: 'Modern dining set for contemporary homes.' },
   { id: 'living-room-sofa', category: 'Sofa', title: 'Living Room Sofa', img: 'sofa1.jpg', desc: 'Contemporary sofa piece with premium fabric upholstery.' },
   { id: 'l-shape-sofa', category: 'Sofa', title: 'L-Shape Sofa', img: 'sofa2.jpg', desc: 'Comfortable L-shape sofa for large families.' },
-  { id: 'classic-sofa', category: 'Sofa', title: 'Classic Sofa', img: 'sofa3.jpg', desc: 'Classic sofa set with durable materials.' }
+  { id: 'classic-sofa', category: 'Sofa', title: 'Classic Sofa', img: 'sofa3.jpg', desc: 'Classic sofa set with durable materials.' },
   { id: 'single-bed-1', category: 'Single Bed', title: 'Single Bed Design 1', img: 'singlebed1.png', desc: 'Comfortable and space-saving single bed.' },
   { id: 'single-bed-2', category: 'Single Bed', title: 'Single Bed Design 2', img: 'singlebed2.png', desc: 'Modern single bed with storage.' },
   { id: 'single-bed-3', category: 'Single Bed', title: 'Single Bed Design 3', img: 'singlebed3.png', desc: 'Premium wooden single bed.' },
