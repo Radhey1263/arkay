@@ -36,6 +36,16 @@ const productsData = [
   { id: 'living-room-sofa', category: 'Sofa', title: 'Living Room Sofa', img: 'sofa1.jpg', desc: 'Contemporary sofa piece with premium fabric upholstery.' },
   { id: 'l-shape-sofa', category: 'Sofa', title: 'L-Shape Sofa', img: 'sofa2.jpg', desc: 'Comfortable L-shape sofa for large families.' },
   { id: 'classic-sofa', category: 'Sofa', title: 'Classic Sofa', img: 'sofa3.jpg', desc: 'Classic sofa set with durable materials.' }
+  { id: 'single-bed-1', category: 'Single Bed', title: 'Single Bed Design 1', img: 'singlebed1.png', desc: 'Comfortable and space-saving single bed.' },
+  { id: 'single-bed-2', category: 'Single Bed', title: 'Single Bed Design 2', img: 'singlebed2.png', desc: 'Modern single bed with storage.' },
+  { id: 'single-bed-3', category: 'Single Bed', title: 'Single Bed Design 3', img: 'singlebed3.png', desc: 'Premium wooden single bed.' },
+  { id: 'dining-4', category: 'Dining', title: 'Dining Design 4', img: 'dining4.png', desc: 'Elegant dining set for your home.' },
+  { id: 'dining-5', category: 'Dining', title: 'Dining Design 5', img: 'dining5.png', desc: 'Elegant dining set for your home.' },
+  { id: 'dining-6', category: 'Dining', title: 'Dining Design 6', img: 'dining6.png', desc: 'Elegant dining set for your home.' },
+  { id: 'dining-7', category: 'Dining', title: 'Dining Design 7', img: 'dining7.png', desc: 'Elegant dining set for your home.' },
+  { id: 'dining-8', category: 'Dining', title: 'Dining Design 8', img: 'dining8.png', desc: 'Elegant dining set for your home.' },
+  { id: 'dining-9', category: 'Dining', title: 'Dining Design 9', img: 'dining9.png', desc: 'Elegant dining set for your home.' },
+  { id: 'dining-10', category: 'Dining', title: 'Dining Design 10', img: 'dining10.png', desc: 'Elegant dining set for your home.' }
 ];
 
 const categoriesData = [
@@ -48,5 +58,6 @@ const categoriesData = [
   { id: 'cat-temple-area', category: 'Temple Area', title: 'Temple Area', img: 'temple area 1.png', desc: 'Custom carved temple and pooja units.' },
   { id: 'cat-dining', category: 'Dining', title: 'Dining', img: 'dining3.png', desc: 'Dining tables and seating.' },
   { id: 'cat-sofa', category: 'Sofa', title: 'Sofa', img: 'sofa1.jpg', desc: 'Lounge seating and sofa sets.' },
-  { id: 'cat-wardrobe', category: 'Wardrobe', title: 'Wardrobe', img: 'wardrobe3.png', desc: 'Sliding and hinged wardrobes.' }
+  { id: 'cat-wardrobe', category: 'Wardrobe', title: 'Wardrobe', img: 'wardrobe3.png', desc: 'Sliding and hinged wardrobes.' },
+  { id: 'cat-single-bed', category: 'Single Bed', title: 'Single Bed', img: 'singlebed1.png', desc: 'Comfortable and space-saving single beds.' }
 ];

@@ -67,8 +67,9 @@ document.addEventListener('DOMContentLoaded', () => {
       'cat-bathroom': ['bathroom1.png', 'bathroom2.png', 'bathroom3.png'],
       'cat-washing-area': ['washing area 1.png', 'washing area 2.png', 'washing area 3.png'],
       'cat-temple-area': ['temple area 1.png'],
-      'cat-dining': ['dining1.png', 'dining2.png', 'dining3.png'],
+      'cat-dining': ['dining1.png', 'dining2.png', 'dining3.png', 'dining4.png', 'dining5.png', 'dining6.png', 'dining7.png', 'dining8.png', 'dining9.png', 'dining10.png'],
       'cat-sofa': ['sofa1.jpg', 'sofa2.jpg', 'sofa3.jpg'],
+      'cat-single-bed': ['singlebed1.png', 'singlebed2.png', 'singlebed3.png'],
       'cat-wardrobe': ['wardrobe1.jpeg', 'wardrobe2.jpeg', 'wardrobe3.png']
     };
 
