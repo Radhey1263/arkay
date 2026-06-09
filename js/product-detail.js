@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
       'cat-dining': ['dining1.png', 'dining2.png', 'dining3.png', 'dining4.png', 'dining5.png', 'dining6.png', 'dining7.png', 'dining8.png', 'dining9.png', 'dining10.png'],
       'cat-sofa': ['sofa1.jpg', 'sofa2.jpg', 'sofa3.jpg'],
       'cat-single-bed': ['singlebed1.png', 'singlebed2.png', 'singlebed3.png'],
-      'cat-wardrobe': ['wardrobe1.jpeg', 'wardrobe2.jpeg', 'wardrobe3.png']
+      'cat-wardrobe': ['wardrobe1.jpeg', 'wardrobe2.jpeg', 'wardrobe3.png', 'wardrobe4.png', 'wardrobe5.png', 'wardrobe6.png', 'wardrobe7.png', 'wardrobe8.png']
     };
 
     if (galleryContainer && product) {

@@ -45,7 +45,12 @@ const productsData = [
   { id: 'dining-7', category: 'Dining', title: 'Dining Design 7', img: 'dining7.png', desc: 'Elegant dining set for your home.' },
   { id: 'dining-8', category: 'Dining', title: 'Dining Design 8', img: 'dining8.png', desc: 'Elegant dining set for your home.' },
   { id: 'dining-9', category: 'Dining', title: 'Dining Design 9', img: 'dining9.png', desc: 'Elegant dining set for your home.' },
-  { id: 'dining-10', category: 'Dining', title: 'Dining Design 10', img: 'dining10.png', desc: 'Elegant dining set for your home.' }
+  { id: 'dining-10', category: 'Dining', title: 'Dining Design 10', img: 'dining10.png', desc: 'Elegant dining set for your home.' },
+  { id: 'wardrobe-4', category: 'Wardrobe', title: 'Wardrobe Design 4', img: 'wardrobe4.png', desc: 'Elegant and spacious wardrobe.' },
+  { id: 'wardrobe-5', category: 'Wardrobe', title: 'Wardrobe Design 5', img: 'wardrobe5.png', desc: 'Elegant and spacious wardrobe.' },
+  { id: 'wardrobe-6', category: 'Wardrobe', title: 'Wardrobe Design 6', img: 'wardrobe6.png', desc: 'Elegant and spacious wardrobe.' },
+  { id: 'wardrobe-7', category: 'Wardrobe', title: 'Wardrobe Design 7', img: 'wardrobe7.png', desc: 'Elegant and spacious wardrobe.' },
+  { id: 'wardrobe-8', category: 'Wardrobe', title: 'Wardrobe Design 8', img: 'wardrobe8.png', desc: 'Elegant and spacious wardrobe.' }
 ];
 
 const categoriesData = [
